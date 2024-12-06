@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Chandrashekhar!
+# Hi there 👋, I'm Chandra Shekhar!
 
 ## 👨‍💻 About Me
 I'm an **iOS Developer** passionate about building sleek, user-friendly iOS applications. With expertise in **Swift** and a focus on delivering high-quality apps, I aim to create impactful mobile solutions that enhance user experiences.
