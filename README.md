@@ -16,7 +16,7 @@ I'm an **iOS Developer** passionate about building sleek, user-friendly iOS appl
 ![Chandrashekhar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chandrashekhar5&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-- [LinkedIn][[https://www.linkedin.com/in/your-linkedin]]
+- [LinkedIn](https://www.linkedin.com/in/chandra-shekhar5/)
 - [Portfolio](file:///Users/chandu../Desktop/Chandra-Portfolio/index.html)
 
 ---
