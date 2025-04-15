@@ -18,7 +18,6 @@ I'm an **iOS Developer** passionate about building sleek, user-friendly iOS appl
 ## 📫 Connect with Me
 
 - [Email](chandrakandhari99@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/chandra-shekhar5/)
 - [Portfolio](file:///Users/chandu../Desktop/Chandra-Portfolio/index.html)
 
 ---
